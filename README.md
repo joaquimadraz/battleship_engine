@@ -1,6 +1,7 @@
 # BattleshipEngine
 
 I've been learning Elixir in the past months and been applying some of the learnings in this project.
+
 It's a basic engine for the Battleship game.
 
 ## API
